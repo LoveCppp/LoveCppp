@@ -9,6 +9,10 @@
 https://xz.aliyun.com/t/9912 spring-boot-actuator-logview 文件包含(CVE-2021-21234)漏洞分析
   https://www.52pojie.cn/thread-1518774-1-1.html 导入表注入
   CVE-2021-3845
+  CVE-2021-42970
+  CVE-2021-43109
+  CVE-2021-43110
+  CVE-2021-43491
   ```
  ## 2022
  
